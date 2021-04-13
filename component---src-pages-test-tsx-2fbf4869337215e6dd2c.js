@@ -1,0 +1,2 @@
+(self.webpackChunkidsc_gatsby_wordpress=self.webpackChunkidsc_gatsby_wordpress||[]).push([[633],{16839:function(e,t,r){"use strict";r.r(t);var s=r(57690),a=r(14762),n=r(67294),c=r(95633),l=r(31633);t.default=function(){return n.createElement(c.Z,null,n.createElement(l.Z,{title:"Test Page"}),n.createElement(s.xu,{bg:"brand.50"},n.createElement(a.X,{color:"white"},"Test Chakra")))}}}]);
+//# sourceMappingURL=component---src-pages-test-tsx-2fbf4869337215e6dd2c.js.map
